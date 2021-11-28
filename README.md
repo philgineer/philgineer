@@ -9,3 +9,4 @@
 - [비전공자를 위한 딥러닝](https://www.philgineer.com/p/blog-page.html)
 - [머신러닝/딥러닝 추천 리스트](https://www.philgineer.com/2020/10/awesome-machine-learning.html)
 - [코테 단골 유형 백준 실버 문제집](https://www.philgineer.com/2021/11/codingtest-selection.html)
+- [네이버 부스트캠프 AI Tech 후기](https://www.philgineer.com/2021/02/ai-tech.html)
