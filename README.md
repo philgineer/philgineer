@@ -11,3 +11,6 @@
 - [Machine learning / Deep learning 추천 리스트](https://www.philgineer.com/2020/10/awesome-machine-learning.html)
 - [Naver Boostcamp AI Tech 후기](https://www.philgineer.com/2021/02/ai-tech.html)
 - [코테 단골 유형 백준 실버 문제집](https://www.philgineer.com/2021/11/codingtest-selection.html)
+
+### Contributions
+- [detectron2_backbone](https://github.com/sxhxliang/detectron2_backbone)
