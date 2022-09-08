@@ -6,7 +6,7 @@
 |[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philgineer/)](https://www.linkedin.com/in/philgineer/)|[![Tech Blog Badge](http://img.shields.io/badge/국문과공대생-51a9fe?style=flat&logo=blogger&logoColor=white&link=https://philgineer.com/)](https://philgineer.com/)|[![Boostcamp Badge](https://img.shields.io/badge/Boostcamp-238636?style=flat&logo=gitbook&logoColor=white&link=https://philgineer.github.io/)](https://philgineer.github.io/)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=yunjh0420)](https://solved.ac/yunjh0420)|
 
 ### Contents
-- [[저서] 비전공자를 위한 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=21976971)
+- [[저서] 비전공자를 위한 딥러닝](http://www.yes24.com/Product/Search?domain=ALL&query=%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%94%A5%EB%9F%AC%EB%8B%9D)
 - [[강의] 패스트캠퍼스 컴퓨터비전](https://fastcampus.co.kr/data_online_cptvsn)
 - [Machine learning / Deep learning 추천 리스트](https://www.philgineer.com/2020/10/awesome-machine-learning.html)
 - [Naver Boostcamp AI Tech 후기](https://www.philgineer.com/2021/02/ai-tech.html)
