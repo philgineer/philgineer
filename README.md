@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=philgineer&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=philgineer&show_icons=true)
 
 |Resume|Tech Blog|AI Projects|Problem Solving|
 |---|---|---|---|
