@@ -15,3 +15,4 @@
 
 ### Contributions
 - [detectron2_backbone](https://github.com/sxhxliang/detectron2_backbone)
+- [Forward-Forward-Network](https://github.com/JacksonWuxs/Forward-Forward-Network)
