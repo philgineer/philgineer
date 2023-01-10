@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=philgineer&show_icons=true)](https://github.com/philgineer/philgineer/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=philgineer&show_icons=true)](https://github.com/philgineer)
 
 |Resume|Tech Blog|AI Projects|Problem Solving|
 |---|---|---|---|
