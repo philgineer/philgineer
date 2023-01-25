@@ -16,6 +16,6 @@
 - [Convolutional Neural Network Explained SO EASY](https://www.philgineer.com/2021/11/convolutional-neural-network-explained.html)
 
 ### Contributions
-- [detectron2_backbone](https://github.com/sxhxliang/detectron2_backbone)
-- [Forward-Forward-Network](https://github.com/JacksonWuxs/Forward-Forward-Network)
 - [Pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward)
+- [Forward-Forward-Network](https://github.com/JacksonWuxs/Forward-Forward-Network)
+- [detectron2_backbone](https://github.com/sxhxliang/detectron2_backbone)
