@@ -11,10 +11,12 @@
 - [Machine learning / Deep learning 추천 리스트](https://www.philgineer.com/2020/10/awesome-machine-learning.html)
 - [Naver Boostcamp AI Tech 후기](https://www.philgineer.com/2021/02/ai-tech.html)
 - [코테 단골 유형 백준 실버 문제집](https://www.philgineer.com/2021/11/codingtest-selection.html)
+- [Forward-forward algorithm 내용 설명](https://www.philgineer.com/2023/02/forward-forward.html)
 - [[ENG] Convolutional Neural Network Explained SO EASY](https://www.philgineer.com/2021/11/convolutional-neural-network-explained.html)
 - [[ENG] What is ChatGPT?](https://www.philgineer.com/2023/01/what-is-chatgpt.html)
 - [[강의] 패스트캠퍼스 컴퓨터비전](https://www.philgineer.com/2022/05/blog-post.html)
 - [[기사] 명대신문 인터뷰](https://news.mju.ac.kr/news/articleView.html?idxno=11273)
+
 
 ### Contributions
 - [Pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward)
