@@ -16,6 +16,7 @@
 - [[ENG] What is ChatGPT?](https://www.philgineer.com/2023/01/what-is-chatgpt.html)
 - [[강의] 패스트캠퍼스 컴퓨터비전](https://www.philgineer.com/2022/05/blog-post.html)
 - [[기사] 명대신문 인터뷰](https://news.mju.ac.kr/news/articleView.html?idxno=11273)
+- [딥러닝을 알고 싶다면 이 책을 보면 됩니다 (저자 QnA)](https://www.philgineer.com/2023/03/qna.html)
 
 
 ### Contributions
